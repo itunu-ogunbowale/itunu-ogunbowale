@@ -6,13 +6,13 @@ I'm interested in **test and validation, embedded systems and digital design**. 
 
 ### Projects
 
-- **[Synchronous Sequence Counter on an FPGA](https://github.com/novicode99/fpga-sequence-counter)**: a gate-level 4-bit counter that shows each state in binary, decimal and hex on seven-segment displays. Designed with Karnaugh maps in Quartus, verified in simulation, and tested on a Cyclone IV FPGA.
+- **[Synchronous Sequence Counter on an FPGA](https://github.com/itunu-ogunbowale/fpga-sequence-counter)**: a gate-level 4-bit counter that shows each state in binary, decimal and hex on seven-segment displays. Designed with Karnaugh maps in Quartus, verified in simulation, and tested on a Cyclone IV FPGA.
 
 ### Tools
 
-**Hardware and test:** oscilloscopes, multimeters, thermocouples, CAN data acquisition (Vector), FPGA (Intel Quartus)
-**Languages:** Python, C/C++, VHDL, Verilog, MATLAB
-**Design and simulation:** LTspice, GT-POWER, KiCad, Autodesk Fusion 360
+- **Hardware and test:** oscilloscopes, multimeters, thermocouples, CAN data acquisition (Vector), FPGA (Intel Quartus)
+- **Languages:** Python, C/C++, VHDL, Verilog, MATLAB
+- **Design and simulation:** LTspice, GT-POWER, KiCad, Autodesk Fusion 360
 
 ### Currently
 
