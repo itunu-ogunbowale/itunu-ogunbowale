@@ -2,7 +2,7 @@
 
 Final-year **Electrical and Electronic Engineering** student at the University of Salford, on track for a First. I've completed a year-long placement at **Cummins Turbo Technologies**, where I worked on actuator testing, validation planning and engineering data analysis.
 
-I'm interested in **test and validation, embedded systems and digital design**. I enjoy work that goes from building hardware to proving it works.
+I'm interested in **test and validation, embedded systems, digital design and power systems**. I enjoy work that goes from building hardware to proving it works.
 
 ### Projects
 
