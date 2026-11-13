@@ -1,4 +1,4 @@
-# Hi, I'm Itunuoluwa Ogunbowale 👋
+# Hi, I'm Itunuoluwa Ogunbowale 
 
 Final-year **Electrical and Electronic Engineering** student at the University of Salford, on track for a First. I've completed a year-long placement at **Cummins Turbo Technologies**, where I worked on actuator testing, validation planning and engineering data analysis.
 
